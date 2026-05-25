@@ -1,4 +1,4 @@
 [submodule "build/oscal"]
 	path = build/oscal
-	url = https://github.com/usnistgov/OSCAL.git
+	url = https://github.com/Exit-Node-Studio/nist-oscal.git
 	branch = v1.2.1
